@@ -28,3 +28,6 @@ function romanToInteger(roman) {
 
 console.log(romanToInteger("IX"));
 console.log(romanToInteger("XXI"));
+console.log(romanToInteger("MICCC"));
+console.log(romanToInteger("LXDCCC"));
+console.log(romanToInteger("XXXXC"));

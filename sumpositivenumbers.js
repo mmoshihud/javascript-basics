@@ -12,7 +12,5 @@ function sumPositiveNumbers(number) {
 }
 
 const numbers = [2, -5, 10, -3, 7];
-
 const result = sumPositiveNumbers(numbers);
-
 console.log(result);
