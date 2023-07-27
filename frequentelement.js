@@ -1,5 +1,5 @@
 function findMostFrequentElement(array) {
-    const countFrequency = {};
+    const countFrequency = [];
     let maxFrequency = 0;
     let mostFrequentElement = null;
 
