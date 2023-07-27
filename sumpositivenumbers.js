@@ -3,7 +3,7 @@ function sumPositiveNumbers(number) {
 
     for (let item of number) {
         if (item > 0) {
-            sum += item
+            sum += item;
         }
     }
 
